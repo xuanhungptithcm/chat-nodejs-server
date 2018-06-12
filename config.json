@@ -1,0 +1,17 @@
+{
+    "HTTP":"https://",
+    "PORT": "3000",
+    "BASE_URL": "/api",
+    "mongodb": {
+        "host": "localhost:27017",
+        "database": "chat"
+    },
+    "DOMAIN": "nodejs-server-chat.herokuapp.com",
+    "socket": {
+        "name": {
+            "search": "search",
+            "MAKE_FRIEND": "MAKE_FRIEND",
+            "CHAT": "CHAT"
+        }
+    }
+}
